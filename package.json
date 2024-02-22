@@ -1,7 +1,6 @@
 {
   "name": "web3easekit",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -37,5 +36,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Web3EaseKit is a comprehensive toolkit designed to simplify and enhance the user experience in Web3 applications. It provides a set of easy-to-use components and utilities that streamline the development of Ethereum-based applications, making blockchain interactions smoother and more intuitive for end-users.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xDhruvang/Web3EaseKit.git"
+  },
+  "keywords": [
+    "UX",
+    "Tool",
+    "Web3"
+  ],
+  "author": "0xDhruvang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xDhruvang/Web3EaseKit/issues"
+  },
+  "homepage": "https://github.com/0xDhruvang/Web3EaseKit#readme"
 }
