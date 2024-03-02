@@ -24,3 +24,5 @@ Install Web3EaseKit using npm:
 ```bash
 
 # npm install web3easekit
+
+## Git URL : https://github.com/0xDhruvang/Web3EaseKit
